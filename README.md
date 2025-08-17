@@ -4,3 +4,4 @@
 ## Introdução
 
 1. [x] Aula 01 Introdução e Dicas para quem está começando.
+2. [x] Aula 02 Instalando o Java no Windows
